@@ -1,0 +1,6 @@
+C:\CS281-Examples\lLecture02\Example03-bool\obj\Debug\Example03-bool.csprojResolveAssemblyReference.cache
+C:\CS281-Examples\lLecture02\Example03-bool\bin\Debug\Example03-bool.exe.config
+C:\CS281-Examples\lLecture02\Example03-bool\bin\Debug\Example03-bool.exe
+C:\CS281-Examples\lLecture02\Example03-bool\bin\Debug\Example03-bool.pdb
+C:\CS281-Examples\lLecture02\Example03-bool\obj\Debug\Example03-bool.exe
+C:\CS281-Examples\lLecture02\Example03-bool\obj\Debug\Example03-bool.pdb
